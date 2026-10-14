@@ -18,7 +18,8 @@ Imagem: captura de tela da região de Fernando de Noronha obtida no Google Earth
 
 "Fernando de Noronha no Google Earth" (imagens/ilha-google-earth.png)
 
-Figura 1 — Visualização das formações insulares de Fernando de Noronha e do oceano ao redor.
+<img width="718" height="510" alt="image" src="https://github.com/user-attachments/assets/34a71aed-a8de-4b45-819e-36988a750918" />
+
 
 Conclusão da análise visual
 
