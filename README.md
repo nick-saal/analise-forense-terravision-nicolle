@@ -1,9 +1,4 @@
 # analise-forense-terravision-nicolle
-Análise forense e computação gráfica do TerraVision
-
-Nicolle Santos <nicolle.alves.santos09@gmail.com>
-08:42 (há 0 minuto)
-para laura.magalhaes.silva
 
 Imagens e Evidências
 
