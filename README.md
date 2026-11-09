@@ -2,7 +2,7 @@
 
 Imagens e Evidências
 
-Para demonstrar o mapeamento de formações insulares, escolhi Fernando de Noronha, localizado no litoral do Nordeste do Brasil. O local é formado por ilhas cercadas pelo Oceano Atlântico e permite observar a relação entre as formações terrestres e a superfície oceânica.
+Para demonstrar o mapeamento de formações insulares, escolhi Fernando de Noronha, localizado no litoral do Nordeste do Brasil. O local é formado por ilhas cercadas pelo Oceano Atlântico e permite observar a relação entre as formações terrestres e a superfície oceânica
 
 A captura de tela do Google Earth será utilizada como evidência visual para mostrar as ilhas, seus contornos e o oceano ao redor. Essa visualização permite analisar como as imagens de satélite representam as características geográficas da região.
 
