@@ -2,7 +2,6 @@ def carregar_camada_satelite(lista_altitudes):
     for altitude in lista_altitudes:
 
         print(f"\nAltitude da câmera: {altitude} metros")
-
         if altitude > 10000:
             print("Nível de resolução: Baixa resolução")
             print("Carregando o mosaico geral da Terra.")
